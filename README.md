@@ -18,8 +18,8 @@ This is a data analysis of service request (311) calls from New York City. Vario
 - Find the top 10 types of complaints
 - Display the types of complaints in each city in a separate dataset
 4. Visualize the major types of complaints in each city
-5. Check if the average response time across various types of complaints
-6. Identify significant variables by performing a statistical analysis using p-values and chi-square values
+5. See whether the average response time across different complaint types is similar(overall)
+
 
 ### Setup and Installation:
 ```bash
